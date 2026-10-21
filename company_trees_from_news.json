@@ -1,0 +1,18 @@
+{
+    "company_trees": [
+        {
+            "name": "Walmart",
+            "relationship": "parent_company",
+            "children": [
+                {
+                    "name": "Sam's Club",
+                    "relationship": "subsidiary",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "relationship_count": 1,
+    "method": "Rule-based extraction from explicit subsidiary wording in article text, summary, or title.",
+    "note": "Partial candidate tree based on collected articles. Review every evidence sentence; this is not a complete ownership database."
+}
