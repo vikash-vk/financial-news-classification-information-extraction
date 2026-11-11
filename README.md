@@ -1,7 +1,10 @@
 # Financial News Classification and Information Extraction
+Team Reinforcement : 
+                    Vikash A [23BCB7058] , Varshan Babu T S [23BCB7140]
 
 ## Project Overview
 This project uses Python to collect financial news articles, classify corporate events, extract important information, and construct a company relationship tree.
+Video Summary: https://drive.google.com/file/d/1vf99TbF4f4ase4IGT-3-lSOVyaq1KlVM/view?usp=sharing
 
 ## Objectives
 - Collect financial news from the CNBC Business RSS feed.
